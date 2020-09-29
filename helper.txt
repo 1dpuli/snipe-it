@@ -1,0 +1,3 @@
+Username: admin
+Email: admin@local.com
+Password: admin@12345
